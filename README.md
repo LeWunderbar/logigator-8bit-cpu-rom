@@ -50,8 +50,8 @@ This ROM defines how the CPU executes each instruction step by step, including a
 
 #### Inputs (address lines)
 
-| Pin | Signal       | Description            |
-|-----|--------------|------------------------|
+| Pin | Signal       |
+|-----|--------------|
 | A0  | Opcode Bit 1 |
 | A1  | Opcode Bit 2 |
 | A2  | Opcode Bit 4 |

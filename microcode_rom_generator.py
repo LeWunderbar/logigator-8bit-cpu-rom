@@ -64,8 +64,6 @@ MICROCODE = { # (opcode, step) -> [signals]
     # JZ (1000)
     (8, 2): ["IO", "J"],
 
-
-
     # OUT (1110)
     (14, 2): ["AO", "OI"],
 
